@@ -65,4 +65,5 @@ def search_products(keyword: str):
         "keyword": keyword,
         "results": results,
         "total_matches": len(results)
+
     }
